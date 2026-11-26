@@ -1,0 +1,37 @@
+.courses{
+    width: 400px;
+    height: 550px;
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 10px;
+}
+.courses__title{
+    text-align: center;
+    color: blue;
+    font-size: 24px;
+}
+.courses__text{
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+}
+.cards__courses{
+    width: 155px;
+    display: inline-block;
+    background-color: white;
+    border-radius:10px;
+    padding: 20px;
+}
+.courses__img{
+    width: 100px;
+}
+.cards__title{
+    text-align: center;
+    color: blue;
+    font-size: 22px;
+}
+.cards__text{
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+}
